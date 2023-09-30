@@ -3,6 +3,8 @@
 - I am currently a high school student who is a co-head of the Scarlett Robotics Code Team  🤖
 - I have experience with Python, Java, and C++ ⌨️
 - I'm currently learning about Front-End Engineering 🌱
+- How to Reach Me: cdefrst58@gmail.com or temirlann26@outlook.com
+
 
 
 <!--
