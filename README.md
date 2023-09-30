@@ -3,7 +3,7 @@
 - I am currently a high school student who is a co-head of the Scarlett Robotics Code Team  🤖
 - I have experience with Python, Java, and C++ ⌨️
 - I'm currently learning about Front-End Engineering 🌱
-- ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!--
 **TemirlanN-dev/TemirlanN-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
