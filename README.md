@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome To My Profile Page
 
 - I have experience with Python, Java, and C++ ⌨️
-- Currently learning Tailwindcss and NextJs
+- Currently mastering Tailwindcss, Javascript, React and NextJs
 - Exploring various fields of computer science
 - How to Reach Me: cdefrst58@gmail.com or temirlann26@outlook.com
 
